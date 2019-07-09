@@ -1,6 +1,6 @@
 # OSM 3D building generator
 
-A project that generates a whole 3D city with buildings . This project also uses fractiles e.g. the texture on the buildings, the grasland and the clouds in the back.
+A project that generates a whole 3D city with buildings . This project also uses fractiles e.g. the texture on the buildings, the grasland and the clouds in the back. 
 
 ## Open 
 
