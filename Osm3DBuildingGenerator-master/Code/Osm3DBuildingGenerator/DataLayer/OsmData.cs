@@ -15,7 +15,7 @@ using Osm3DBuildingGenerator.BusinessLogicLayer.Texture;
 using System.Windows;
 
 namespace Osm3DBuildingGenerator.DataLayer {
-
+ 
     /// <summary>
     /// This class contains, gets and gives through all the data that's needed to show the osm buildings and landuses
     /// </summary>
