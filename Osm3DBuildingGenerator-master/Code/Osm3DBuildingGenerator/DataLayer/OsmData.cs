@@ -13,7 +13,7 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using Osm3DBuildingGenerator.BusinessLogicLayer.Texture;
 using System.Windows;
-
+ 
 namespace Osm3DBuildingGenerator.DataLayer {
  
     /// <summary>
