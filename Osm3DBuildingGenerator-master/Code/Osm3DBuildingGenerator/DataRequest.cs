@@ -7,7 +7,7 @@ using System.Windows.Media.Media3D;
 
 namespace Osm3DBuildingGenerator {
     interface DataRequest {
-
+        //lalal
 
         List<List<ModelUIElement3D>> getBuildingSurfaces();
 
