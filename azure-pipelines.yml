@@ -18,6 +18,14 @@ steps:
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2
+- task: Application security testing@2020
+  inputs:
+    projectName: 'CSharp'
+    enableSastScan: true
+    CheckmarxService: 'Checkmarx Service'
+    fullTeamName: 'CxServer\SP\Company\Users'
+    incScan: false
+    enableDependencyScan: false
   inputs:
     restoreSolution: '$(solution)'
 
