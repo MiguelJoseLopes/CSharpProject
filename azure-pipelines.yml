@@ -26,8 +26,6 @@ steps:
     fullTeamName: 'CxServer\SP\Company\Users'
     incScan: false
     enableDependencyScan: false
-  inputs:
-    restoreSolution: '$(solution)'
 
 - task: VSBuild@1
   inputs:
